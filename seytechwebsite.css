@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+.sections{
+    width: 100%;
+    display: flex;
+}
+.left{
+    width: 20%;
+}
+.middle{
+    width: 60%;
+}
+.right{
+    width: 20%;
+}
